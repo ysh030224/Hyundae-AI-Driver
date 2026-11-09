@@ -1,0 +1,12 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication.shared" >
+4
+5    <uses-sdk android:minSdkVersion="34" />
+5-->INJECTED
+5-->INJECTED
+6
+7    <application />
+7-->C:\Users\유승현\AndroidStudioProjects\MyApplication\shared\src\main\AndroidManifest.xml:3:5-20
+8
+9</manifest>
